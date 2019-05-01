@@ -14,8 +14,11 @@ Set of links with useful information for programming.
 
 ### GIT
 
+- [Introduction to Source Control: What is Source Control?](https://www.codenewbie.org/blogs/what-is-source-control)
 - [GIT from scratch](https://www.gitfromscratch.com/index.html)
 - [Pro GIT book (spanish)](https://git-scm.com/book/es/v2) - Available in PDF, EPUB and MOBI.
+- [Visualizing Git](http://git-school.github.io/visualizing-git/) - A visual tool to see git's graph as the user enters git commands.
+- [Learning Git Branching](https://learngitbranching.js.org/) - Another visual tool to learn Git with an online tutorial.
 
 ### OOP (Object Oriented Paradigm)
 
@@ -23,14 +26,24 @@ Set of links with useful information for programming.
 - [SOLID - Principles of Object Oriented design](https://app.pluralsight.com/library/courses/principles-oo-design/table-of-contents) - Pluralsight course with basic principles of OOP design
 - [UML Class Diagram](https://www.geeksforgeeks.org/unified-modeling-language-uml-class-diagrams/) - understanding UML Class Diagram and how to read and understand OOP designs
 - [Difference between association, aggregation, and composition](https://stackoverflow.com/questions/885937/what-is-the-difference-between-association-aggregation-and-composition)
+- [Design Patterns: Elements of Reusable Object-Oriented Software (Book)](http://www.uml.org.cn/c++/pdf/designpatterns.pdf) - Advanced book with different object oriented patterns.
 
-### Functional
+### Functional Paradigm
 
-- [Introduction to Functional programming (spanish)](http://wiki.uqbar.org/wiki/articles/paradigma-funcional.html) Brief introduction to functional programming
+- [Introduction to Functional programming (spanish)](http://wiki.uqbar.org/wiki/articles/paradigma-funcional.html) - Brief introduction to functional programming
+
+### Logical Paradigm
+
+- [Introduction to Logical programming (spanish)](http://wiki.uqbar.org/wiki/articles/paradigma-logico.html) - Brief introduction to logical programming.
 
 ### Databases
 
 - [Understanding UML database Diagram](https://www.lucidchart.com/pages/database-diagram/database-design#discovery__top) - Lucidchart basic post to understand how to map your database design to a UML diagram
+- [Use the Index, Luke! What every developer should know about SQL performance](https://use-the-index-luke.com/sql/table-of-contents) - A blog page oriented to SQL, with all the contents a Software Developer should know about SQL Performance
+
+#### MySQL
+
+- [Pluralsight Path: MySQL](https://app.pluralsight.com/paths/skill/mysql) - A set of Pluralsight's courses to learn basics of MySQL
 
 #### MSSQL - SQL Server - T-SQL
 
@@ -38,8 +51,9 @@ Set of links with useful information for programming.
 
 ### Specific programming languages
 
-#### Javascript
+#### Js (Javascript)
 
+- [Pluralsight's js path](https://app.pluralsight.com/paths/skills/javascript) - A set of 8 online courses to learn and master basics of js.
 - [Javascript: The good parts](https://7chan.org/pr/src/OReilly_JavaScript_The_Good_Parts_May_2008.pdf) - Book about JS (no frameworks nor libraries)
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS) Online book about js
 
